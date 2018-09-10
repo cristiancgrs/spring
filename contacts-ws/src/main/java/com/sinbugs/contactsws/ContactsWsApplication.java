@@ -8,5 +8,5 @@ public class ContactsWsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ContactsWsApplication.class, args);
-	}
+	}    
 }
